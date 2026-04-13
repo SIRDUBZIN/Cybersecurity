@@ -134,4 +134,4 @@ Welcome John! Let's begin learning about cybersecurity.
 
 ## 👨‍💻 Author
 
-Developed as part of a **Cybersecurity Awareness learning project**.
+Sizolwethu Mnculwane
