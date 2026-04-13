@@ -122,16 +122,6 @@ Welcome John! Let's begin learning about cybersecurity.
 
 ---
 
-## 🛠️ Future Improvements
-
-* Add more cybersecurity topics
-* Implement quiz functionality
-* Store user progress
-* Improve UI with GUI (Windows Forms or WPF)
-* Add more sound effects
-
----
-
 ## 👨‍💻 Author
 
 Sizolwethu Mnculwane
