@@ -1,6 +1,6 @@
 # YouTube Presentation Script
 
-Hi, my name is Thabiso Khumalo, and this is my PROG6221 Part 2 Cybersecurity Awareness Chatbot.
+Hi, my name is SIZOLWETHU MNCULWANE, and this is my PROG6221 Part 2 Cybersecurity Awareness Chatbot.
 
 In Part 1, the chatbot was a command-line application. In Part 2, I upgraded it into a WPF graphical user interface to make it more user-friendly and interactive.
 
