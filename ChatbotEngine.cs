@@ -288,7 +288,7 @@ namespace CybersecurityChatbot
         private string BuildGreeting()
         {
             string name = _memory.Name.Length > 0 ? $", {_memory.Name}" : "";
-            return $"Hello{name}! 👋 I'm CyberBot, your cybersecurity awareness assistant. " +
+            return $"Hello{name}! I'm CyberBot, your cybersecurity awareness assistant. " +
                    "You can ask me about topics like passwords, phishing, scams, privacy, malware, VPNs, firewalls, updates, backups, or Wi-Fi safety!";
         }
 
@@ -296,16 +296,16 @@ namespace CybersecurityChatbot
         {
             string name = _memory.Name.Length > 0 ? $", {_memory.Name}" : "";
             return $"Here's what I can help you with{name}:\n\n" +
-                   "🔐 Password safety\n" +
-                   "🎣 Phishing awareness\n" +
-                   "⚠️ Scam detection\n" +
-                   "🔒 Privacy tips\n" +
-                   "🦠 Malware protection\n" +
-                   "🌐 VPN usage\n" +
-                   "🧱 Firewall basics\n" +
-                   "🔄 Software updates\n" +
-                   "💾 Data backups\n" +
-                   "📶 Wi-Fi security\n\n" +
+                   "Password safety\n" +
+                   "Phishing awareness\n" +
+                   "Scam detection\n" +
+                   "Privacy tips\n" +
+                   "Malware protection\n" +
+                   "VPN usage\n" +
+                   "Firewall basics\n" +
+                   "Software updates\n" +
+                   "Data backups\n" +
+                   "Wi-Fi security\n\n" +
                    "Just type a topic or ask a question!";
         }
     }
