@@ -1,7 +1,7 @@
 # Cybersecurity Awareness Bot - Part 2 POE
 
 ## Student Details
-Name: Thabiso Khumalo  
+Name: Sizolwethu Mnculwane
 Module: PROG6221  
 Project: Cybersecurity Awareness Chatbot Part 2  
 Platform: WPF C# .NET
@@ -27,7 +27,7 @@ This project expands the Part 1 Cybersecurity Awareness Chatbot into a WPF graph
 3. Confirm that `Greeting.wav` is inside the `Media` folder.
 4. Build the solution.
 5. Run the project.
-6. Start by typing: `My name is Thabiso`.
+6. Start by typing: `My name is Sizolwethu`.
 7. Ask questions such as:
    - Tell me about password safety
    - Give me a phishing tip
@@ -37,7 +37,7 @@ This project expands the Part 1 Cybersecurity Awareness Chatbot into a WPF graph
    - I am worried about scams
 
 ## Suggested Test Questions
-- My name is Thabiso
+- My name is Sizolwethu
 - Tell me about password safety
 - Give me a phishing tip
 - Tell me more
