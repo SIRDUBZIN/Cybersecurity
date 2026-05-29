@@ -14,7 +14,7 @@ The chatbot uses keyword recognition to identify cybersecurity topics from the u
 
 The chatbot also uses dictionaries and lists to store multiple responses. This allows the bot to randomly select different answers for the same topic, which makes the conversation feel less repetitive.
 
-Another important feature is memory and recall. The bot can remember the user's name when they type something like, My name is Thabiso. It can also remember a favourite cybersecurity topic, for example, when the user says they are interested in privacy.
+Another important feature is memory and recall. The bot can remember the user's name when they type something like, My name is Sizolwethu. It can also remember a favourite cybersecurity topic, for example, when the user says they are interested in privacy.
 
 The chatbot supports conversation flow. If the user asks follow-up questions such as tell me more, why, explain more, or give me another tip, the bot continues the current topic instead of starting over.
 
